@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/OleMartinKeis/joker#readme",
   "devDependencies": {
+    "eslint": "^8.36.0",
     "prettier": "^2.8.4"
   },
   "dependencies": {
