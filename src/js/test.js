@@ -1,1 +1,1 @@
-console.log("intentional error");
+console.log("Intentional Syntax Error");
